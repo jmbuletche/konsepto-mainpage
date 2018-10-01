@@ -61,6 +61,11 @@ p, .btn, #imgsofa{
 	color: #000;
 }
 
+#button a {
+	text-decoration: none;
+	color: #000;
+}
+
 #button:hover{
 	border-color: #000;
 	background-color: #FFF263;
